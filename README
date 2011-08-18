@@ -1,2 +1,10 @@
 * Futebol Botão
-Projeto teste para criar um jogo de futebol de botão usando a engine Unity (versão Free).
+Projeto teste para criar um jogo de futebol de botão usando a engine Unity (versão Free 3.4).
+
+* O que está pronto
+- Partida Simples Amistosa
+
+* O que vamos trabalhar
+- Adicionar IA na partida Amistosa
+- Criar 'atributos' para o botão assim ao chutar com um botão de ataque o chute vai mais forte e o de defesa por ex. sera mais dificil de se tirar do local
+- Criar a parte online, onde o jogador criará seu time com formação e peças customizadas e pode jogar contra outros evoluindo assim o time criadp
