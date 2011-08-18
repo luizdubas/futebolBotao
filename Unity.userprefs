@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JOGO\GameStatus.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Assets\Scripts\JOGO\GoalieControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\GUIMain.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\JOGO\GameStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\LoginGUI.cs" Line="56" Column="8" />
+      <File FileName="Assets\Scripts\JOGO\PlayerControl.cs" Line="94" Column="3" />
+      <File FileName="Assets\Scripts\JOGO\TimeControl.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\Base\TimeData.cs" Line="1" Column="20" />
+      <File FileName="Assets\Scripts\Base\Apresentacao.cs" Line="1" Column="20" />
+      <File FileName="Assets\Scripts\Camera\MenuCamera.cs" Line="8" Column="33" />
+      <File FileName="Assets\Scripts\JOGO\PlayerMovement.cs" Line="32" Column="43" />
+      <File FileName="Assets\Scripts\JOGO\ChuteScript.cs" Line="24" Column="13" />
+      <File FileName="Assets\Scripts\JOGO\BallControl.cs" Line="20" Column="180" />
+      <File FileName="Assets\Scripts\GUI\GUIPausa.cs" Line="77" Column="4" />
+      <File FileName="Assets\Scripts\GUI\GUISelect.cs" Line="125" Column="27" />
+      <File FileName="Assets\Scripts\GUI\GUIPlacar.cs" Line="32" Column="28" />
+      <File FileName="Assets\Scripts\locale\label.cs" Line="25" Column="102" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>

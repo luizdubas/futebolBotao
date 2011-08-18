@@ -1,0 +1,12 @@
+<servidores>
+	<servidor>
+		<nome>Principal</nome>
+		<ip>127.0.0.1</ip>
+		<porta>3000</porta>
+	</servidor>
+	<servidor>
+		<nome>Secundario</nome>
+		<ip>127.0.0.1</ip>
+		<porta>3000</porta>
+	</servidor>
+</servidores>
